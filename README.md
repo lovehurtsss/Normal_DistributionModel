@@ -1,6 +1,8 @@
 # Modelling of normal Gaussian distribution 
 *The code is written using С language in MATLAB*\
 
+The code can build a normal distribution model in the form of 1d, 2d, 3d. Also animated to change variables
+
 The normal distribution, also known as the Gaussian distribution, is one of the most important distributions in statistics. It describes a random variable that has values concentrated around a mean, with these values scattered with a certain degree of spread or standard deviation.
 
 ## Formula
