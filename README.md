@@ -21,3 +21,5 @@ x could represent any value from the distribution's domain.
 σ, is known as the standard deviation, which gives a measure of how much the values deviate from the mean.
 
 e: This represents the base of the natural logarithm, approximately equal to 2.71828. It's used in the formula because of the natural exponential function.
+![Normal Distribution](https://github.com/lovehurtsss/Normal_DistributionModel/blob/main/GAUS_PNG.png)
+
