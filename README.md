@@ -7,5 +7,15 @@ The normal distribution, also known as the Gaussian distribution, is one of the 
 
 The probability density function (PDF) for the normal distribution is given by the following formula:
 
-![Normal Distribution]([https://latex.codecogs.com/svg.latex?f(x|\mu,\sigma^2)=\frac{1}{\sqrt{2\pi\sigma^2}}e^{-\frac{(x-\mu)^2}{2\sigma^2}}](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.investopedia.com%2Fthmb%2FvEnFyFaX2zK96wVerxokPmEt3dU%3D%2F1500x0%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2FClipboard01-fdb217713438416cadafc48a1e4e5ee4.jpg&tbnid=1KeCHz8tKuxCeM&vet=12ahUKEwjokYeC8NqEAxXVWaQEHSMcDrAQMygBegQIARBT..i&imgrefurl=https%3A%2F%2Fwww.investopedia.com%2Fterms%2Fn%2Fnormaldistribution.asp&docid=UbUKP8FumrgBXM&w=1069&h=320&q=normal%20distribution%20formula&ved=2ahUKEwjokYeC8NqEAxXVWaQEHSMcDrAQMygBegQIARBT))
+![Normal Distribution](https://github.com/lovehurtsss/Normal_DistributionModel/blob/main/distib.png)
 
+
+x: This represents the random variable for which we are calculating the probability density. In the context of the normal distribution, 
+x could represent any value from the distribution's domain.
+
+μ: This is the mean of the distribution, also known as the expected value or the average. It represents the central tendency of the distribution, around which the values are concentrated.
+
+σ: This is the variance of the distribution. It measures the spread or dispersion of the values around the mean. The square root of the variance,
+σ, is known as the standard deviation, which gives a measure of how much the values deviate from the mean.
+
+e: This represents the base of the natural logarithm, approximately equal to 2.71828. It's used in the formula because of the natural exponential function.
